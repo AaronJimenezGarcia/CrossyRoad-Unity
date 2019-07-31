@@ -1,9 +1,9 @@
 # CrossyRoad-Unity
 
-Crossy Road created with Unity Engine 2017
+Game based on the original Crossy Road games series created with Unity Engine 2017.
 
 Developers:
 
-Àlex Viñas Termes
+Àlex Viñas Termes: In charge of programming, models and physics.
 
-Aarón Jiménez García
+Aarón Jiménez García: In charge of programming, models, physics and animations. 
